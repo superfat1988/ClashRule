@@ -25,20 +25,20 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 #jike
--DOMAIN,jike.info
+DOMAIN,jike.info
 
 # steam
-- DOMAIN,steamcdn-a.akamaihd.net
-- DOMAIN-SUFFIX,steamserver.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamserver.net
 
 # statestreet
-- DOMAIN,statestreet.com
-- DOMAIN,internal.crop.com
-- DOMAIN,kait.top
-- DOMAIN-SUFFIX,statestreet
+DOMAIN,statestreet.com
+DOMAIN,internal.crop.com
+DOMAIN,kait.top
+DOMAIN-SUFFIX,statestreet
 
 # Nvida GFE
-- DOMAIN,international-gfe.download.nvidia.com
+DOMAIN,international-gfe.download.nvidia.com
 
 # 360
 DOMAIN-SUFFIX,360.com
