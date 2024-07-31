@@ -37,6 +37,9 @@ IP-CIDR,114.114.115.115/32,no-resolve
 - DOMAIN,kait.top
 - DOMAIN-SUFFIX,statestreet
 
+#Nvida GFX
+- DOMAIN,international-gfe.download.nvidia.com
+
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -46,7 +49,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
 
 # 58
 DOMAIN-SUFFIX,58.com
