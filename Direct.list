@@ -37,7 +37,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 - DOMAIN,kait.top
 - DOMAIN-SUFFIX,statestreet
 
-#Nvida GFX
+# Nvida GFE
 - DOMAIN,international-gfe.download.nvidia.com
 
 # 360
