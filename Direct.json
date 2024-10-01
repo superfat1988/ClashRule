@@ -2,12 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com"
-      ]
-    },
-    {
       "domain_suffix": [
         ".weixinsxy.com",
         ".wxapp.tc.qq.com",
