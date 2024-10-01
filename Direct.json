@@ -3,13 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com",
-        ".jike.info",
-        ".steamcdn-a.akamaihd.net",
-        ".steamserver.net",
-        ".international-gfe.download.nvidia.com",
-        ".kait.top"        
+        "weixinsxy.com",
+        "wxapp.tc.qq.com",
+        "jike.info",
+        "steamcdn-a.akamaihd.net",
+        "steamserver.net",
+        "international-gfe.download.nvidia.com",
+        "kait.top"        
       ]
     }
   ]
